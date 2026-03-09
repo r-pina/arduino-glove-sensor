@@ -18,6 +18,7 @@ Arduino obstacle detection system using ultrasonic sensors and buzzer
 
 ## Software
 The Arduino code is written in **C++** using the Arduino IDE.
+
 **Main Logic:**
 - Each sensor checks for objects within 3 inches  
 - The buzzer beeps once, twice, or three times, depending on which sensor detects an object

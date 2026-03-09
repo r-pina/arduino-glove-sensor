@@ -11,6 +11,9 @@ Arduino obstacle detection system using ultrasonic sensors and buzzer
 - 3 Ultrasonic sensors
 - Buzzer
 
+## Project images
+![Circuit Diagram](rpina_circuit_diagram.jpeg)
+
 ## My Role 
 - Programmed the Arduino in C++
 - Implemented the sensor detection and buzzer feedback logic

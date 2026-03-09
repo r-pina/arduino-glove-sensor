@@ -11,6 +11,7 @@ Arduino obstacle detection system using ultrasonic sensors and buzzer
 - 3 Ultrasonic sensors
 - Buzzer
 
-## My Role
-I programmed the system in C++ and implemented the sensor detection logic.
-Two teammates built the glove and assembled the circuitry.
+## My Role 
+- Programmed the Arduino in C++
+- Implemented the sensor detection and buzzer feedback logic
+- Collaborated with two teammates who built the glove and assembled the circuitry.

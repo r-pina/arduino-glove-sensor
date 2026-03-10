@@ -1,5 +1,5 @@
 # arduino-glove-sensor
-Arduino obstacle detection system using ultrasonic sensors and buzzer
+Assistive obstacle detection system designed to help visually impaired users detect nearby obstacles using ultrasonic sensors and audio feedback.
 
 ## Features
 - Detects objects in front, left, and right directions

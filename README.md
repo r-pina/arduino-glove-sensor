@@ -2,7 +2,7 @@
 Assistive obstacle detection system designed to help visually impaired users detect nearby obstacles using ultrasonic sensors and audio feedback.
 
 ## Purpose
-This project explores assistive technology for visually impaired individuals by providing simple audio feedback when obstacles are detected. The goal was to create a wearable prototype that improves spatial awareness using low-cost sensors.
+This project explores low-cost assistive technology designed to improve spatial awareness. The system monitors obstacles in multiple directions and alerts the user through a buzzer when objects are detected within a defined range.
 
 ## Features
 - Detects objects in front, left, and right directions

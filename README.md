@@ -1,6 +1,9 @@
 # arduino-glove-sensor
 Assistive obstacle detection system designed to help visually impaired users detect nearby obstacles using ultrasonic sensors and audio feedback.
 
+## Purpose
+This project explores assistive technology for visually impaired individuals by providing simple audio feedback when obstacles are detected. The goal was to create a wearable prototype that improves spatial awareness using low-cost sensors.
+
 ## Features
 - Detects objects in front, left, and right directions
 - Activates a buzzer when obstacles are detected
